@@ -28,19 +28,19 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="30%" align="center">
+      <td width="25%" align="center">
         <span>Dart</span><br>
         <img alt="Dart" height="64px" src="https://cdn.svgporn.com/logos/dart.svg" />
       </td>
-      <td width="30%" align="center">
+      <td width="25%" align="center">
         <span>Java</span><br>
         <img alt="Java" height="64px" src="https://cdn.svgporn.com/logos/java.svg" />
       </td>
-      <td width="30%" align="center">
+      <td width="25%" align="center">
         <span>C</span><br>
         <img alt="C". height="64px" src="https://cdn.svgporn.com/logos/c.svg" />
       </td>
-      <td width="30%" align="center">
+      <td width="25%" align="center">
         <span>C++</span><br>
         <img alt="C++" height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg" />
       </td>
