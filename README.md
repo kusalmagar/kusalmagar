@@ -9,17 +9,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **Truth can only be found in one place: THE CODE**
 ### Connect with me:
 
-[<img align="left" alt="twitter-logo | Twitter" width="26px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" />](twitter)
-[<img align="left" alt="linkedin-logo | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin)
-[<img align="left" alt="instagram-logo | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](instagram)
-[<img align="left" alt="facebook-logo" width="26px" src="https://cdn.svgporn.com/logos/facebook.svg" />](webdevplaylist)
+[<img align="left" alt="twitter-logo | Twitter" width="26px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" />](https://twitter.com/MagarKusal)
+[<img align="left" alt="linkedin-logo | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kushal-laye-3a9402172/)
+[<img align="left" alt="instagram-logo | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kushal_laye)
+[<img align="left" alt="facebook-logo" width="26px" src="https://cdn.svgporn.com/logos/facebook.svg" />](https://www.facebook.com/kusal.mgr22)
 [<img align="left" alt="github-logo" width="26px" src="https://cdn.svgporn.com/logos/github-octocat.svg" />](https://github.com/kusalmagar)
 
 <br />
 
 ### Programming Languages:
 
-[<img align="left" alt="Dart" width="40px" height="40px" src="https://cdn.svgporn.com/logos/dart.svg" />](webdevplaylist)
+| [<img align="left" alt="Dart" width="40px" height="40px" src="https://cdn.svgporn.com/logos/dart.svg" />](webdevplaylist)
 [<img align="left" alt="Java" width="40px" height="40px" src="https://cdn.svgporn.com/logos/java.svg" />](webdevplaylist)
 [<img align="left" alt="C" width="40px" height="40px" src="https://cdn.svgporn.com/logos/c.svg" />](webdevplaylist)
 [<img align="left" alt="C++" width="40px" height="40px" src="https://cdn.svgporn.com/logos/c-plusplus.svg" />](webdevplaylist)
