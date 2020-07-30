@@ -1,8 +1,8 @@
 ### <h1 align="center">Hi there 👋 And Namaste 🙏</h1>
 #### <h3 align="center">A enthusiastic Flutter Developer.</h3>
 
+<br />
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Padyatra](https://github.com/ranaprabina/Padyatra)
 - 📫 How to reach me: **kusal.mgr33@gmail.com**
