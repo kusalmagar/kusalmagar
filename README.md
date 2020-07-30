@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi there 👋 And Namaste 🙏</h1>
-#### <h3 align="center">A enthusiastic Flutter Developer.</h3>
+#### <h3 align="center">A Enthusiastic Flutter Developer.</h3>
 
 <br />
 
