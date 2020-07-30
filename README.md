@@ -25,6 +25,7 @@
 
 ### Programming Languages:
 
+<p1>Dart</p1>
 <img align="left" alt="Dart" width="64px" height="64px" src="https://cdn.svgporn.com/logos/dart.svg" />
 <img align="left" alt="Java" width="64px" height="64px" src="https://cdn.svgporn.com/logos/java.svg" />
 <img align="left" alt="C" width="64px" height="64px" src="https://cdn.svgporn.com/logos/c.svg" />
