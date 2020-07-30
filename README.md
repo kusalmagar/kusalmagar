@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 [<img align="left" alt="github-logo" width="26px" src="https://cdn.svgporn.com/logos/github-octocat.svg" />](https://github.com/kusalmagar)
 
 <br />
+<br />
 
 ### Programming Languages:
 
-| [<img align="left" alt="Dart" width="40px" height="40px" src="https://cdn.svgporn.com/logos/dart.svg" />](webdevplaylist)
-[<img align="left" alt="Java" width="40px" height="40px" src="https://cdn.svgporn.com/logos/java.svg" />](webdevplaylist)
-[<img align="left" alt="C" width="40px" height="40px" src="https://cdn.svgporn.com/logos/c.svg" />](webdevplaylist)
-[<img align="left" alt="C++" width="40px" height="40px" src="https://cdn.svgporn.com/logos/c-plusplus.svg" />](webdevplaylist)
+[<img align="left" alt="Dart" width="40px" height="40px" src="https://cdn.svgporn.com/logos/dart.svg" />]()
+[<img align="left" alt="Java" width="40px" height="40px" src="https://cdn.svgporn.com/logos/java.svg" />]()
+[<img align="left" alt="C" width="40px" height="40px" src="https://cdn.svgporn.com/logos/c.svg" />]()
+[<img align="left" alt="C++" width="40px" height="40px" src="https://cdn.svgporn.com/logos/c-plusplus.svg" />]()
 
 <br />
 <br />
