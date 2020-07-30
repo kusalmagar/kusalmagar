@@ -25,11 +25,33 @@
 
 ### Programming Languages:
 
-<p1>Dart</p1>
-<img align="left" alt="Dart" width="64px" height="64px" src="https://cdn.svgporn.com/logos/dart.svg" />
-<img align="left" alt="Java" width="64px" height="64px" src="https://cdn.svgporn.com/logos/java.svg" />
-<img align="left" alt="C" width="64px" height="64px" src="https://cdn.svgporn.com/logos/c.svg" />
-<img align="left" alt="C++" width="64px" height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg" />
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>Dart</span><br>
+        <img align="left" alt="Dart" height="64px" src="https://cdn.svgporn.com/logos/dart.svg" />
+      </td>
+      <td width="20%" align="center">
+        <span>Java</span><br>
+        <img align="left" alt="Java" height="64px" src="https://cdn.svgporn.com/logos/java.svg" />
+      </td>
+      <td width="20%" align="center">
+        <span>C</span><br>
+        <img align="left" alt="C". height="64px" src="https://cdn.svgporn.com/logos/c.svg" />
+      </td>
+      <td width="20%" align="center">
+        <span>C++</span><br>
+        <img align="left" alt="C++" height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg" />
+      </td>
+    </tr>
+    
+  </tbody>
+</table>
+
+
+
+
 
 <br />
 <br />
