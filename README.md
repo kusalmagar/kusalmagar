@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ### Programming Languages:
 
-[<img align="left" alt="Dart" width="40px" height="40px" src="https://cdn.svgporn.com/logos/dart.svg" />]()
-[<img align="left" alt="Java" width="40px" height="40px" src="https://cdn.svgporn.com/logos/java.svg" />]()
-[<img align="left" alt="C" width="40px" height="40px" src="https://cdn.svgporn.com/logos/c.svg" />]()
-[<img align="left" alt="C++" width="40px" height="40px" src="https://cdn.svgporn.com/logos/c-plusplus.svg" />]()
+<img align="left" alt="Dart" width="40px" height="40px" src="https://cdn.svgporn.com/logos/dart.svg" />
+<img align="left" alt="Java" width="40px" height="40px" src="https://cdn.svgporn.com/logos/java.svg" />
+<img align="left" alt="C" width="40px" height="40px" src="https://cdn.svgporn.com/logos/c.svg" />
+<img align="left" alt="C++" width="40px" height="40px" src="https://cdn.svgporn.com/logos/c-plusplus.svg" />
 
 <br />
 <br />
