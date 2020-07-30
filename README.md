@@ -9,10 +9,10 @@
 - ⚡ Fun fact: **Truth can only be found in one place: THE CODE**
 ### Connect with me:
 
-[<img align="left" alt="twitter-logo | Twitter" width="26px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" />](https://twitter.com/MagarKusal)
-[<img align="left" alt="linkedin-logo | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kushal-laye-3a9402172/)
-[<img align="left" alt="instagram-logo | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kushal_laye)
-[<img align="left" alt="facebook-logo" width="26px" src="https://cdn.svgporn.com/logos/facebook.svg" />](https://www.facebook.com/kusal.mgr22)
+[<img align="left" alt="twitter-logo | Twitter" width="30px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" />](https://twitter.com/MagarKusal)
+[<img align="left" alt="linkedin-logo | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kushal-laye-3a9402172/)
+[<img align="left" alt="instagram-logo | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kushal_laye)
+[<img align="left" alt="facebook-logo" width="30px" src="https://cdn.svgporn.com/logos/facebook.svg" />](https://www.facebook.com/kusal.mgr22)
 [<img align="left" alt="github-logo" width="26px" src="https://cdn.svgporn.com/logos/github-octocat.svg" />](https://github.com/kusalmagar)
 
 <br />
