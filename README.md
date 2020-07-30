@@ -18,6 +18,11 @@
 <br />
 <br />
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kusalmagar&show_icons=true" alt="theonlynischal" /> 
+
+</p>
+
 ### Programming Languages:
 
 <img align="left" alt="Dart" width="64px" height="64px" src="https://cdn.svgporn.com/logos/dart.svg" />
