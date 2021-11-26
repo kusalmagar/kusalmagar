@@ -19,7 +19,7 @@
 <br />
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kusalmagar&show_icons=true" alt="theonlynischal" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=kusalmagar&show_icons=true" alt="kusalmagar" /> 
 
 </p>
 
