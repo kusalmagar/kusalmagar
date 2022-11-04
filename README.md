@@ -4,7 +4,6 @@
 <br />
 
 
-- 🔭 I’m currently working on [Padyatra](https://github.com/ranaprabina/Padyatra)
 - 📫 How to reach me: **kusal.mgr33@gmail.com**
 - ⚡ Fun fact: **Truth can only be found in one place: THE CODE**
 ### Connect with me:
